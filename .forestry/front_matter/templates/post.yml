@@ -37,12 +37,12 @@ fields:
   config:
     required: true
 pages:
-- content/posts/2019-04-23-Customer-Loyalty .md
-- content/posts/2019-04-22-working-from-home.md
-- content/posts/2019-03-27-User-Journey-Mapping.md
-- content/posts/2019-03-24-Design-Team-Collaborates.md
-- content/posts/2019-03-10-Set-Big-Goals.md
-- content/posts/2018-01-15-Sales-as-Service.md
-- content/posts/2018-01-11-Customer-Service-Skills-that-Every-Employee-Needs.md
-- content/posts/2018-01-09-Design-Azimuth.md
 - content/posts/2017-03-26-Azimuth-Improvements.md
+- content/posts/2018-01-09-Design-Azimuth.md
+- content/posts/2018-01-11-Customer-Service-Skills-that-Every-Employee-Needs.md
+- content/posts/2018-01-15-Sales-as-Service.md
+- content/posts/2019-03-10-Set-Big-Goals.md
+- content/posts/2019-03-24-Design-Team-Collaborates.md
+- content/posts/2019-03-27-User-Journey-Mapping.md
+- content/posts/2019-04-22-working-from-home.md
+- content/posts/2019-04-23-Customer-Loyalty .md
